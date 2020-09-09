@@ -1,0 +1,30 @@
+.position {
+  display: none;
+}
+.speaker_social ul {
+  display: none;
+}
+.speaker_social p {
+  text-align: justify;
+}
+.speaker_social {
+  padding: 2% !important;
+}
+.speaker_img img {
+  width: 40% !important;
+}
+#counter div {
+  background-color: #bd0ace;
+}
+.speaker_box {
+  padding: 5%;
+}
+.form {
+  margin-top: 5%;
+  width: 50%;
+}
+@media only screen and (max-device-width: 768px) {
+  .form {
+    width: 80%;
+  }
+}
