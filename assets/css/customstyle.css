@@ -26,8 +26,18 @@
 .event_box {
   padding: 3%;
 }
+.projects-dropdown {
+  margin-left: 4%;
+  color: grey;
+  outline: grey;
+  padding: 1% 2%;
+}
 @media only screen and (max-device-width: 768px) {
   .form {
     width: 80%;
+  }
+  .projects-dropdown {
+    margin-left: 0%;
+    width: 50%;
   }
 }
