@@ -37,6 +37,12 @@
   transition: 0s;
 }
 @media only screen and (max-device-width: 768px) {
+  .speaker_img img {
+    width: 80% !important;
+  }
+  .speaker_img {
+    margin-left: 15% !important;
+  }
   .form {
     width: 80%;
   }
