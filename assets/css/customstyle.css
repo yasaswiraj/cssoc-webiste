@@ -32,6 +32,9 @@
   outline: grey;
   padding: 1% 2%;
 }
+.speakers a:hover {
+  color: #bd0ace;
+}
 @media only screen and (max-device-width: 768px) {
   .form {
     width: 80%;
